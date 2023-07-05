@@ -10,3 +10,4 @@ test/demo/dist/
 dist/
 
 .cache/
+config.bat
